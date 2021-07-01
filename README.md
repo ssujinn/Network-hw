@@ -1,6 +1,7 @@
 # Network Course Homework
 ## Homework 1
-- HTTP Client Program (CPP)
+- HTTP Client Program
+- Socket Programming
 
 ## Homework 2
 - Distance Vector Routing Algorithm
